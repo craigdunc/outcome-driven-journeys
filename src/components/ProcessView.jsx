@@ -19,8 +19,17 @@ const ProcessView = () => {
   }, [selectedJourneyFilter]);
 
   const filteredScoredOutcomes = useMemo(() => {
-    if (selectedJourneyFilter === 'All') return scoredOutcomesData;
-    return scoredOutcomesData.filter(r => r.Journey_Name === selectedJourneyFilter);
+    let data = scoredOutcomesData;
+    if (selectedJourneyFilter !== 'All') {
+      data = data.filter(r => r.Journey_Name === selectedJourneyFilter);
+    }
+    const uniqueMap = new Map();
+    data.forEach(item => {
+      if (!uniqueMap.has(item.Customer_Outcome)) {
+        uniqueMap.set(item.Customer_Outcome, item);
+      }
+    });
+    return Array.from(uniqueMap.values());
   }, [selectedJourneyFilter]);
   
 
