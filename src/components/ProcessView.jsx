@@ -27,8 +27,18 @@ const ProcessView = () => {
   return (
     <div className="process-view-container" style={{ padding: '40px', maxWidth: '1200px', margin: '0 auto', fontFamily: 'system-ui, sans-serif' }}>
       <h1 style={{ fontSize: '32px', marginBottom: '10px', color: '#111' }}>The JTBD Generation Process</h1>
+      <p style={{ fontSize: '16px', color: '#555', marginBottom: '15px', lineHeight: '1.6' }}>
+        <strong>Outcome Driven Journeys</strong><br />
+        Outcome Driven Innovation is one of the most rigorous frameworks for understanding customer needs — but its traditional form requires extensive upfront research: hundreds of interviews, expert facilitation, and significant time and cost before any insight is produced. For many organisations, that barrier means it never gets started.
+      </p>
+      <p style={{ fontSize: '16px', color: '#555', marginBottom: '15px', lineHeight: '1.6' }}>
+        Outcome Driven Journeys is a multiple-layer journey approach that removes that barrier. Rather than waiting for primary research, it uses the conversations customers are already having — forum posts, reviews, community discussions — to construct a full ODI-style architecture from day one. Customer Outcomes are derived systematically from this data, structured into journey steps, classified by metric type, and scored for importance and satisfaction to surface genuine service opportunities.
+      </p>
+      <p style={{ fontSize: '16px', color: '#555', marginBottom: '15px', lineHeight: '1.6' }}>
+        This produces something organisations can act on immediately. And because the architecture is built to accommodate additional data, primary research doesn't disappear from the process — it joins it. Interview and survey data can supplement and refine the forum-sourced foundation over time, progressively improving fidelity without requiring it upfront.
+      </p>
       <p style={{ fontSize: '16px', color: '#555', marginBottom: '30px', lineHeight: '1.6' }}>
-        This interactive explainer demonstrates how we moved from unstructured customer text to mathematically scored Opportunity landscapes using Outcome-Driven Innovation rules powered by Gemini 1.5 Flash.
+        The output is a living, evidence-based view of what customers are trying to achieve, where they are underserved, and where the greatest opportunities for innovation lie.
       </p>
 
       <div className="process-tabs" style={{ display: 'flex', gap: '10px', marginBottom: '30px', borderBottom: '1px solid #ccc', paddingBottom: '10px' }}>
