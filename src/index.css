@@ -1,0 +1,432 @@
+:root {
+  --qantas-red: #E40000;
+  --qantas-red-dark: #B30000;
+  --bg-red: #CC0000;
+  --midnight-blue: #323232;
+  --slate-blue: #323232;
+  --light-gray: #E0E0E0;
+  --border-gray: #D1D1D1;
+  --text-dark: #1A1A1A;
+  --text-muted: #666666;
+  --white: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: var(--light-gray);
+  color: var(--text-dark);
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header {
+  background-color: var(--white);
+  padding: 0.8rem 20px;
+  border-bottom: 1px solid var(--border-gray);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 100;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.top-nav {
+  display: flex;
+  gap: 10px;
+  margin-right: 20px;
+}
+
+.nav-pill {
+  padding: 8px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--border-gray);
+  background-color: var(--white);
+  color: #323232;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.nav-pill.active {
+  background-color: #323232;
+  color: var(--white);
+  border-color: #323232;
+}
+
+.logo-placeholder {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: #323232;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.hamburger-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: var(--midnight-blue);
+  display: flex;
+  align-items: center;
+  margin-right: 1.5rem;
+}
+
+.app-layout {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 250px;
+  background-color: var(--white);
+  border-right: 1px solid var(--border-gray);
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 0;
+  transition: width 0.3s ease, transform 0.3s ease;
+  overflow-x: hidden;
+}
+
+.sidebar.closed {
+  width: 0;
+  border-right: none;
+  transform: translateX(-100%);
+}
+
+.sidebar-section {
+  padding: 1.5rem;
+  border-bottom: 1px solid var(--border-gray);
+}
+
+.sidebar-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 1.2rem;
+  letter-spacing: 1px;
+}
+
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.6rem 0;
+  font-size: 0.9rem;
+  color: var(--midnight-blue);
+}
+
+.sidebar-badge {
+  width: 10px;
+  height: 24px;
+  border-radius: 2px;
+}
+
+/* Main Content with Red Backgrounds */
+.main-content {
+  flex: 1;
+  overflow: auto;
+  background-color: var(--light-gray);
+}
+
+.content-section {
+  background: linear-gradient(90deg, #E40000 0%, #7E0000 100%);
+  padding: 20px 20px 10px 20px;
+  margin-bottom: 0;
+}
+
+.section-banner-row {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 10px;
+  padding-right: 20px;
+}
+
+.title-group {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  color: var(--white);
+  padding-left: 12px;
+  width: 133px;
+  /* Aligns with company row labels (20px card pad + 122px name + 3px pad) */
+  flex-shrink: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.user-icon {
+  width: 32px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 50%;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  font-size: 1rem;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.user-icon img {
+  width: 16px;
+  height: 16px;
+}
+
+.section-title {
+  font-size: 0.65rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-transform: none;
+  width: 80px;
+}
+
+.stage-banner {
+  display: flex;
+  gap: 8px;
+  flex: 1;
+}
+
+.stage-box {
+  flex: 1;
+  background-color: rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0.9);
+  height: 40px;
+  text-align: center;
+  font-size: 0.65rem;
+  font-weight: 600;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+
+.company-card {
+  background-color: var(--white);
+  border-radius: 30px;
+  padding: 15px 15px 15px 20px;
+  /* Snippet value */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.company-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.company-row:last-child {
+  margin-bottom: 0;
+}
+
+.company-name {
+  width: 115px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #323232;
+  flex-shrink: 0;
+  line-height: 1.2;
+  padding-right: 6px;
+}
+
+.company-bar {
+  flex: 1;
+  height: 20px;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  background: transparent !important;
+}
+
+.company-segment {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  overflow: visible;
+}
+
+.company-segment:first-child {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.company-segment:last-child {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.traffic-light-pill {
+  height: 47px;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  margin-right: 8px;
+}
+
+.traffic-light-pill img {
+  height: 100%;
+  width: auto;
+  display: block;
+}
+
+.extra-footer {
+  background: linear-gradient(90deg, #E40000 0%, #7E0000 100%);
+  padding: 1rem 3rem;
+  color: var(--white);
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+.gray-footer {
+  background-color: #D6D6D6;
+  padding: 1rem 3rem;
+  color: var(--text-dark);
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+/* ========================================
+   QANTAS VIEW - Full Horizontal Spread
+   ======================================== */
+
+.qv-section {
+  background: linear-gradient(90deg, #E40000 0%, #7E0000 100%);
+  padding: 20px 20px 10px 20px;
+  margin-bottom: 0;
+}
+
+/* Wide container that extends beyond viewport */
+.qv-wide-container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Shared row pattern */
+.qv-header-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+/* Sticky left label (title / row label) */
+.qv-sticky-label {
+  width: 120px;
+  flex-shrink: 0;
+  position: sticky;
+  left: 20px;
+  z-index: 5;
+}
+
+.qv-title-group {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: var(--white);
+}
+
+/* Columns area: stages, pills, and cells live here */
+.qv-columns-area {
+  display: flex;
+  gap: 8px;
+}
+
+/* Stage headers: width set dynamically, spans sub-stage columns */
+.qv-stage-header {
+  flex-shrink: 0;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Sub-stage pills: fixed width */
+.qv-pill {
+  flex-shrink: 0;
+  height: 32px;
+  background-color: rgba(200, 50, 50, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: var(--white);
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Grid card */
+.qv-grid-card {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: visible;
+}
+
+.qv-grid-row {
+  display: flex;
+  align-items: stretch;
+  border-bottom: 1px solid #eee;
+}
+
+.qv-grid-row:last-child {
+  border-bottom: none;
+}
+
+.qv-row-label {
+  padding: 16px 12px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #323232;
+  line-height: 1.3;
+  display: flex;
+  align-items: center;
+  background-color: var(--white);
+}
+
+/* Grid cells: fixed width, cream background */
+.qv-cell {
+  flex-shrink: 0;
+  min-height: 50px;
+  background-color: #FAF5EE;
+  padding: 10px 8px;
+  font-size: 0.7rem;
+  color: #323232;
+  display: flex;
+  align-items: flex-start;
+  border-left: 1px solid #eee;
+  box-sizing: border-box;
+}
+
+.qv-cell:first-child {
+  border-left: none;
+}

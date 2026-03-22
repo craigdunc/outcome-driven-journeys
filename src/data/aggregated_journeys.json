@@ -1,0 +1,771 @@
+[
+    {
+        "Level": "L1",
+        "Journey_Name": "Aspirational Brand Affinity with Qantas Group",
+        "Goal": "Establish lifelong trust, loyalty, and emotional connection with the Qantas premium brand.",
+        "Jobs": [
+            {
+                "ODI_Step": "Modify",
+                "Job_Name": "Modify a Reward Flight Booking",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE Effort required to update a reward flight online.",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE Time spent getting transferred between call centre agents when attempting to update a reward flight.",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE Number of times customer data needs to be re-stated when interacting with customer service for reward flights.",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    }
+                ],
+                "Job_Average_Importance": 1.0,
+                "Job_Average_Satisfaction": 0.0,
+                "Job_Average_SOS": 2.0
+            },
+            {
+                "ODI_Step": "Execute",
+                "Job_Name": "Engage with Customer Service",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE Time spent waiting to speak with customer service representatives.",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE Likelihood of successfully connecting with a customer service representative.",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    }
+                ],
+                "Job_Average_Importance": 1.0,
+                "Job_Average_Satisfaction": 0.0,
+                "Job_Average_SOS": 2.0
+            },
+            {
+                "ODI_Step": "Conclude",
+                "Job_Name": "Resolve Financial Discrepancies with the Brand",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE Clarity of financial transactions initiated by the brand.",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE Time required for the brand to rectify financial errors.",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE Likelihood of the brand taking responsibility for financial errors.",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    }
+                ],
+                "Job_Average_Importance": 1.0,
+                "Job_Average_Satisfaction": 0.0,
+                "Job_Average_SOS": 2.0
+            }
+        ],
+        "Journey_Average_Importance": 1.0,
+        "Journey_Average_Satisfaction": 0.0,
+        "Journey_Average_SOS": 2.0
+    },
+    {
+        "Level": "L2",
+        "Journey_Name": "Loyalty Journey",
+        "Goal": "Get rewards and benefits from the loyalty program.",
+        "Jobs": [
+            {
+                "ODI_Step": "Locate",
+                "Job_Name": "Discover available program rewards and tier benefits when planning future activities",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE the value I can get",
+                        "p_positive_mentions": 8,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 8.0,
+                        "Opportunity_Score_SOS": 10.18
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE the amount of relevant ways to earn I see",
+                        "p_positive_mentions": 6,
+                        "n_negative_mentions": 4,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 6.0,
+                        "Opportunity_Score_SOS": 12.18
+                    },
+                    {
+                        "Outcome_Statement": "Unmet Need: Range of Partners",
+                        "p_positive_mentions": 2,
+                        "n_negative_mentions": 8,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 2.0,
+                        "Opportunity_Score_SOS": 16.18
+                    }
+                ],
+                "Job_Average_Importance": 9.09,
+                "Job_Average_Satisfaction": 5.33,
+                "Job_Average_SOS": 12.85,
+                "Emotional_Experience": "I've been sitting on 500,000 points for two years. Finding somewhere to actually spend them is getting harder every time I look."
+            },
+            {
+                "ODI_Step": "Prepare",
+                "Job_Name": "Accumulate the currency and credits required for a reward and tier benefits during regular earning activities",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE Understand the requirements for a way of earning",
+                        "p_positive_mentions": 7,
+                        "n_negative_mentions": 3,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 7.0,
+                        "Opportunity_Score_SOS": 11.18
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE Confidence I'm ready to start earning",
+                        "p_positive_mentions": 5,
+                        "n_negative_mentions": 5,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 5.0,
+                        "Opportunity_Score_SOS": 13.18
+                    },
+                    {
+                        "Outcome_Statement": "Unmet Need: Too complicated to understand",
+                        "p_positive_mentions": 1,
+                        "n_negative_mentions": 9,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 1.0,
+                        "Opportunity_Score_SOS": 17.18
+                    }
+                ],
+                "Job_Average_Importance": 9.09,
+                "Job_Average_Satisfaction": 4.33,
+                "Job_Average_SOS": 13.85,
+                "Emotional_Experience": "I spend more time planning how to earn points than planning the actual trip."
+            },
+            {
+                "ODI_Step": "Execute",
+                "Job_Name": "Access rewards and tier benefits at the point of redemption or service entry",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE difficulty of steps to earn points",
+                        "p_positive_mentions": 4,
+                        "n_negative_mentions": 6,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 4.0,
+                        "Opportunity_Score_SOS": 14.18
+                    },
+                    {
+                        "Outcome_Statement": "Unmet Need: Not easy to compare options",
+                        "p_positive_mentions": 2,
+                        "n_negative_mentions": 8,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 2.0,
+                        "Opportunity_Score_SOS": 16.18
+                    }
+                ],
+                "Job_Average_Importance": 9.09,
+                "Job_Average_Satisfaction": 3.0,
+                "Job_Average_SOS": 15.18,
+                "Emotional_Experience": "The reward seat was technically free. The taxes came to $1,301. Free is getting expensive."
+            },
+            {
+                "ODI_Step": "Monitor",
+                "Job_Name": "Track actual points and tier progress between active program interactions",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE time until feedback that I received points",
+                        "p_positive_mentions": 3,
+                        "n_negative_mentions": 7,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 3.0,
+                        "Opportunity_Score_SOS": 15.18
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE clarity that the activity earned points",
+                        "p_positive_mentions": 6,
+                        "n_negative_mentions": 4,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 6.0,
+                        "Opportunity_Score_SOS": 12.18
+                    },
+                    {
+                        "Outcome_Statement": "Unmet Need: I don't feel rewarded for everyday spend",
+                        "p_positive_mentions": 1,
+                        "n_negative_mentions": 9,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 1.0,
+                        "Opportunity_Score_SOS": 17.18
+                    }
+                ],
+                "Job_Average_Importance": 9.09,
+                "Job_Average_Satisfaction": 3.33,
+                "Job_Average_SOS": 14.85,
+                "Emotional_Experience": "I built a spreadsheet to track what the app should already be telling me correctly."
+            },
+            {
+                "ODI_Step": "Modify",
+                "Job_Name": "Update my reward ambitions and where I focus my spending when I see the points earn performance",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE difficulty of updating account details",
+                        "p_positive_mentions": 8,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 8.0,
+                        "Opportunity_Score_SOS": 10.18
+                    },
+                    {
+                        "Outcome_Statement": "Unmet Need: I can't update my profile details easily",
+                        "p_positive_mentions": 2,
+                        "n_negative_mentions": 8,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 2.0,
+                        "Opportunity_Score_SOS": 16.18
+                    }
+                ],
+                "Job_Average_Importance": 9.09,
+                "Job_Average_Satisfaction": 5.0,
+                "Job_Average_SOS": 13.18,
+                "Emotional_Experience": "Every time they change the earn rates, I change my strategy. The earn rates change a lot."
+            },
+            {
+                "ODI_Step": "Conclude",
+                "Job_Name": "Enjoy the feeling of membership as an ongoing member of the program",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE clarity that account details are updated",
+                        "p_positive_mentions": 7,
+                        "n_negative_mentions": 3,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 7.0,
+                        "Opportunity_Score_SOS": 11.18
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE uncertainty about data being saved and applied",
+                        "p_positive_mentions": 5,
+                        "n_negative_mentions": 5,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 5.0,
+                        "Opportunity_Score_SOS": 13.18
+                    },
+                    {
+                        "Outcome_Statement": "Unmet Need: I'm not confident my data is saved securely",
+                        "p_positive_mentions": 1,
+                        "n_negative_mentions": 9,
+                        "Total_Mentions": 10,
+                        "Importance_Score": 9.09,
+                        "Satisfaction_Score": 1.0,
+                        "Opportunity_Score_SOS": 17.18
+                    }
+                ],
+                "Job_Average_Importance": 9.09,
+                "Job_Average_Satisfaction": 4.33,
+                "Job_Average_SOS": 13.85,
+                "Emotional_Experience": "The status felt earned. The points just feel like they're waiting for Qantas to change the rules again."
+            }
+        ],
+        "Journey_Average_Importance": 9.09,
+        "Journey_Average_Satisfaction": 4.17,
+        "Journey_Average_SOS": 13.65
+    },
+    {
+        "Level": "L3",
+        "Journey_Name": "Money Journey",
+        "Goal": "Earn rewards through financial and insurance products.",
+        "Jobs": [
+            {
+                "ODI_Step": "Locate",
+                "Job_Name": "Identify the loyalty-linked earn opportunity when in the market for financial and insurance services",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE effort required to locate Qantas point offers for financial products",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 4,
+                        "Total_Mentions": 4,
+                        "Importance_Score": 3.64,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 7.28
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE clarity of Qantas point offer terms and conditions for financial products",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 3,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 5.46
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE effort required to compare Qantas point earning programs across different financial institutions",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 3,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 5.46
+                    }
+                ],
+                "Job_Average_Importance": 3.03,
+                "Job_Average_Satisfaction": 0.0,
+                "Job_Average_SOS": 6.07,
+                "Emotional_Experience": "There's always a better offer out there. The trick is finding it before it closes."
+            },
+            {
+                "ODI_Step": "Prepare",
+                "Job_Name": "Evaluate the offering and the potential value when comparing financial and insurance options",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE effort required to meet credit card bonus point spend targets",
+                        "p_positive_mentions": 1,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 5.0,
+                        "Opportunity_Score_SOS": 1.82
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE likelihood of stress when trying to meet credit card bonus point spend targets",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of credit card bonus point spend targets being achievable",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    }
+                ],
+                "Job_Average_Importance": 1.27,
+                "Job_Average_Satisfaction": 1.67,
+                "Job_Average_SOS": 1.94,
+                "Emotional_Experience": "I can spend an hour on the maths and still not be sure it stacks up."
+            },
+            {
+                "ODI_Step": "Execute",
+                "Job_Name": "Commit to loyalty-linked financial and insurance products when selecting preferred options",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of Qantas points accruing reliably from everyday credit card spend",
+                        "p_positive_mentions": 3,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 4,
+                        "Importance_Score": 3.64,
+                        "Satisfaction_Score": 7.5,
+                        "Opportunity_Score_SOS": 3.64
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE speed of transferring rewards points to Qantas Frequent Flyer",
+                        "p_positive_mentions": 2,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 4,
+                        "Importance_Score": 3.64,
+                        "Satisfaction_Score": 5.0,
+                        "Opportunity_Score_SOS": 3.64
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE effort required for converting rewards points to Qantas Frequent Flyer",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 3.64
+                    }
+                ],
+                "Job_Average_Importance": 3.03,
+                "Job_Average_Satisfaction": 4.17,
+                "Job_Average_SOS": 3.64,
+                "Emotional_Experience": "I pressed submit and held my breath. Now I just need the bonus to actually show up."
+            },
+            {
+                "ODI_Step": "Monitor",
+                "Job_Name": "Assess actual points progress from active financial and insurance services when tracking points progress",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE speed of Qantas points being credited to account",
+                        "p_positive_mentions": 7,
+                        "n_negative_mentions": 4,
+                        "Total_Mentions": 11,
+                        "Importance_Score": 10.0,
+                        "Satisfaction_Score": 6.36,
+                        "Opportunity_Score_SOS": 13.64
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE effort required to resolve Qantas point crediting issues",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 3.64
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE clarity of how specific bonus spend categories contribute to points balance",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 1,
+                        "Importance_Score": 1.0,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 2.0
+                    }
+                ],
+                "Job_Average_Importance": 4.27,
+                "Job_Average_Satisfaction": 2.12,
+                "Job_Average_SOS": 6.43,
+                "Emotional_Experience": "Keeping track of it all is basically a second job. And it doesn't always pay what it promised."
+            },
+            {
+                "ODI_Step": "Modify",
+                "Job_Name": "Reassess my reward ambitions and loyalty-linked product commitment as my needs evolve over time",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of points balance justifying annual credit card fees",
+                        "p_positive_mentions": 4,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 6,
+                        "Importance_Score": 5.45,
+                        "Satisfaction_Score": 6.67,
+                        "Opportunity_Score_SOS": 5.45
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE cost of annual fees being charged before Qantas points are received",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 3.64
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of insurance point offers providing net financial benefit",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 3,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 5.46
+                    }
+                ],
+                "Job_Average_Importance": 3.33,
+                "Job_Average_Satisfaction": 2.22,
+                "Job_Average_SOS": 4.85,
+                "Emotional_Experience": "The strategy changes whenever life does. Lately, life's been changing a lot."
+            },
+            {
+                "ODI_Step": "Conclude",
+                "Job_Name": "Realise the feeling of loyalty-linked earn value as a long-term participant in the category",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of points balance justifying annual credit card fees",
+                        "p_positive_mentions": 4,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 6,
+                        "Importance_Score": 5.45,
+                        "Satisfaction_Score": 6.67,
+                        "Opportunity_Score_SOS": 5.45
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE likelihood of the value of accumulated Qantas points being eroded over time",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 3.64
+                    }
+                ],
+                "Job_Average_Importance": 3.64,
+                "Job_Average_Satisfaction": 3.34,
+                "Job_Average_SOS": 4.55,
+                "Emotional_Experience": "I gave it two years. I'm not sure I ended up ahead, honestly."
+            }
+        ],
+        "Journey_Average_Importance": 3.26,
+        "Journey_Average_Satisfaction": 2.25,
+        "Journey_Average_SOS": 4.58
+    },
+    {
+        "Level": "L4",
+        "Journey_Name": "Cards Journey",
+        "Goal": "Earn rewards with a credit card.",
+        "Jobs": [
+            {
+                "ODI_Step": "Locate",
+                "Job_Name": "Identify the rewards-linked credit card opportunity when entering the market",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE effort required to locate Qantas point offers for financial products",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 4,
+                        "Total_Mentions": 4,
+                        "Importance_Score": 3.64,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 7.28
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE clarity of Qantas point offer terms and conditions",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 3,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 5.46
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE effort required to compare credit card rewards programs",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 3,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 5.46
+                    }
+                ],
+                "Job_Average_Importance": 3.03,
+                "Job_Average_Satisfaction": 0.0,
+                "Job_Average_SOS": 6.07,
+                "Emotional_Experience": "The moment I realised I could earn status without flying felt like finding a cheat code."
+            },
+            {
+                "ODI_Step": "Prepare",
+                "Job_Name": "Evaluate the costs and reward benefits when selecting a specific rewards card",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE effort building credit history",
+                        "p_positive_mentions": 2,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 4,
+                        "Importance_Score": 3.64,
+                        "Satisfaction_Score": 5.0,
+                        "Opportunity_Score_SOS": 3.64
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE likelihood of card application being rejected",
+                        "p_positive_mentions": 4,
+                        "n_negative_mentions": 1,
+                        "Total_Mentions": 5,
+                        "Importance_Score": 4.55,
+                        "Satisfaction_Score": 8.0,
+                        "Opportunity_Score_SOS": 4.55
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of finding the right card for my needs",
+                        "p_positive_mentions": 1,
+                        "n_negative_mentions": 3,
+                        "Total_Mentions": 4,
+                        "Importance_Score": 3.64,
+                        "Satisfaction_Score": 2.5,
+                        "Opportunity_Score_SOS": 4.78
+                    }
+                ],
+                "Job_Average_Importance": 3.94,
+                "Job_Average_Satisfaction": 5.17,
+                "Job_Average_SOS": 4.32,
+                "Emotional_Experience": "I've mapped the whole year out. If the earn rates hold, this actually works perfectly."
+            },
+            {
+                "ODI_Step": "Execute",
+                "Job_Name": "Acquire a rewards-linked credit card",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE time obtaining a credit card",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 3.64
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of smooth card application process",
+                        "p_positive_mentions": 3,
+                        "n_negative_mentions": 0,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 10.0,
+                        "Opportunity_Score_SOS": 2.73
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of retaining existing credit cards when switching",
+                        "p_positive_mentions": 4,
+                        "n_negative_mentions": 0,
+                        "Total_Mentions": 4,
+                        "Importance_Score": 3.64,
+                        "Satisfaction_Score": 10.0,
+                        "Opportunity_Score_SOS": 3.64
+                    }
+                ],
+                "Job_Average_Importance": 2.73,
+                "Job_Average_Satisfaction": 6.67,
+                "Job_Average_SOS": 3.34,
+                "Emotional_Experience": "Crossing to a new card felt bigger than it should. Now I need to make it earn its keep."
+            },
+            {
+                "ODI_Step": "Monitor",
+                "Job_Name": "Track the points earned from card activity each month",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MINIMISE effort locating available credit card offers",
+                        "p_positive_mentions": 1,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 3.33,
+                        "Opportunity_Score_SOS": 2.73
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE likelihood of credit card offers excluding relevant purchases",
+                        "p_positive_mentions": 1,
+                        "n_negative_mentions": 5,
+                        "Total_Mentions": 6,
+                        "Importance_Score": 5.45,
+                        "Satisfaction_Score": 1.67,
+                        "Opportunity_Score_SOS": 9.23
+                    },
+                    {
+                        "Outcome_Statement": "MAXIMISE value received from credit card offers",
+                        "p_positive_mentions": 3,
+                        "n_negative_mentions": 0,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 10.0,
+                        "Opportunity_Score_SOS": 2.73
+                    }
+                ],
+                "Job_Average_Importance": 3.64,
+                "Job_Average_Satisfaction": 5.0,
+                "Job_Average_SOS": 4.9,
+                "Emotional_Experience": "I track every transaction. Half the time the points don't arrive the way they said they would."
+            },
+            {
+                "ODI_Step": "Modify",
+                "Job_Name": "Adjust my reward ambitions and card use when I see actual points earning performance",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE likelihood of points balance justifying annual credit card fees",
+                        "p_positive_mentions": 4,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 6,
+                        "Importance_Score": 5.45,
+                        "Satisfaction_Score": 6.67,
+                        "Opportunity_Score_SOS": 5.45
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE cost of annual fees being charged before Qantas points are received",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 3.64
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE likelihood of the value of accumulated Qantas points being eroded over time",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 3.64
+                    }
+                ],
+                "Job_Average_Importance": 3.03,
+                "Job_Average_Satisfaction": 2.22,
+                "Job_Average_SOS": 4.24,
+                "Emotional_Experience": "I stopped chasing flights. The card earn path fits my life better now, and that's fine."
+            },
+            {
+                "ODI_Step": "Conclude",
+                "Job_Name": "Enjoy the ongoing value of the card and membership as a long-term rewards card user",
+                "Outcomes": [
+                    {
+                        "Outcome_Statement": "MAXIMISE value received from credit card offers",
+                        "p_positive_mentions": 3,
+                        "n_negative_mentions": 0,
+                        "Total_Mentions": 3,
+                        "Importance_Score": 2.73,
+                        "Satisfaction_Score": 10.0,
+                        "Opportunity_Score_SOS": 2.73
+                    },
+                    {
+                        "Outcome_Statement": "MINIMISE likelihood of the value of accumulated Qantas points being eroded over time",
+                        "p_positive_mentions": 0,
+                        "n_negative_mentions": 2,
+                        "Total_Mentions": 2,
+                        "Importance_Score": 1.82,
+                        "Satisfaction_Score": 0.0,
+                        "Opportunity_Score_SOS": 3.64
+                    }
+                ],
+                "Job_Average_Importance": 2.28,
+                "Job_Average_Satisfaction": 5.0,
+                "Job_Average_SOS": 3.19,
+                "Emotional_Experience": "When the upgrade came through for the whole family, every dollar of that annual fee felt worth it."
+            }
+        ],
+        "Journey_Average_Importance": 3.11,
+        "Journey_Average_Satisfaction": 4.01,
+        "Journey_Average_SOS": 4.31
+    }
+]

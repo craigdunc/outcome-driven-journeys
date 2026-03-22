@@ -1,0 +1,320 @@
+[
+  {
+    "id": "INIT-001",
+    "name": "Automated Rewards Integration",
+    "status": "Discovery",
+    "outcomes": [
+      "Maximise the likelihood of being able to book a reward flight when redeeming Qantas points for a classic reward"
+    ]
+  },
+  {
+    "id": "INIT-002",
+    "name": "Proactive Checkout System",
+    "status": "Prediscovery",
+    "outcomes": [
+      "Minimise the effort required to verify earned points and credits are correct when checking balances after qualifying activity",
+      "Maximise the value from assessing whether the strategy is worth pursuing when evaluating the return on a loyalty or card activity before committing"
+    ]
+  },
+  {
+    "id": "INIT-003",
+    "name": "Unified Status Workflow",
+    "status": "Backlog",
+    "outcomes": [
+      "Minimise the effort required to find a reward seat on a partner airline when searching for OneWorld or partner award availability",
+      "Minimise the effort required to access a lounge without overcrowding when lounge quality is degraded by expanded access eligibility"
+    ]
+  },
+  {
+    "id": "INIT-004",
+    "name": "Dynamic Onboarding Workflow",
+    "status": "Development",
+    "outcomes": [
+      "Maximise the likelihood of being able to switch to a competing loyalty programme when a partner or competitor programme offers better earn or redemption value",
+      "Maximise the value from setting up reward seat alerts when using third-party tools to monitor availability"
+    ]
+  },
+  {
+    "id": "INIT-005",
+    "name": "Omnichannel Booking Orchestrator",
+    "status": "Discovery",
+    "outcomes": [
+      "Minimise the effort required to submit a card application when onboarding with a new bank or loyalty card provider"
+    ]
+  },
+  {
+    "id": "INIT-006",
+    "name": "Enhanced Rewards System",
+    "status": "Prediscovery",
+    "outcomes": [
+      "Maximise the likelihood of being able to locate a points-earning credit card when searching the market for a new card offer"
+    ]
+  },
+  {
+    "id": "INIT-007",
+    "name": "Seamless Booking Tracker",
+    "status": "Development",
+    "outcomes": [
+      "Minimise the effort required to purchase an insurance policy for points when executing a transaction in a qualifying ground-earn category"
+    ]
+  },
+  {
+    "id": "INIT-008",
+    "name": "AI-Driven Status Orchestrator",
+    "status": "Backlog",
+    "outcomes": [
+      "Minimise the effort required to book a reward flight when redeeming Qantas points for a classic reward"
+    ]
+  },
+  {
+    "id": "INIT-009",
+    "name": "Unified Checkout Portal",
+    "status": "Discovery",
+    "outcomes": [
+      "Minimise the effort required to book a multi-leg reward itinerary when splitting a classic reward across separate bookings or stopovers"
+    ]
+  },
+  {
+    "id": "INIT-010",
+    "name": "Proactive Checkout Dashboard",
+    "status": "Development",
+    "outcomes": [
+      "Maximise the value from finding a relevant loyalty offer when exploring programme options and partner deals"
+    ]
+  },
+  {
+    "id": "INIT-011",
+    "name": "Smart Booking Workflow",
+    "status": "Prediscovery",
+    "outcomes": [
+      "Minimise the effort required to locate a points-earning credit card when searching the market for a new card offer"
+    ]
+  },
+  {
+    "id": "INIT-012",
+    "name": "AI-Driven Retention Workflow",
+    "status": "Development",
+    "outcomes": [
+      "Maximise the value from adjusting the loyalty or card strategy when programme changes, devaluations, or shifting priorities require a new approach"
+    ]
+  },
+  {
+    "id": "INIT-013",
+    "name": "Automated Checkout Dashboard",
+    "status": "Prediscovery",
+    "outcomes": [
+      "Maximise the value from planning spending to meet the bonus threshold when preparing to qualify for a credit card sign-up bonus",
+      "Minimise the effort required to check points expiry dates when monitoring whether accumulated points are at risk of expiring"
+    ]
+  },
+  {
+    "id": "INIT-014",
+    "name": "Dynamic Loyalty Platform",
+    "status": "Prediscovery",
+    "outcomes": [
+      "Minimise the effort required to locate a reward seat when searching for classic reward availability using Qantas points"
+    ]
+  },
+  {
+    "id": "INIT-015",
+    "name": "Automated Alerts Platform",
+    "status": "Development",
+    "outcomes": [
+      "Minimise the effort required to track ground-earned status credits when verifying that non-flight spend has converted to status credits as expected"
+    ]
+  },
+  {
+    "id": "INIT-016",
+    "name": "Smart Retention Workflow",
+    "status": "Backlog",
+    "outcomes": [
+      "Maximise the likelihood of being able to adjust the loyalty or card strategy when programme changes, devaluations, or shifting priorities require a new approach"
+    ]
+  },
+  {
+    "id": "INIT-017",
+    "name": "Dynamic Retention Workflow",
+    "status": "Discovery",
+    "outcomes": [
+      "Maximise the value from calculating status credit requirements when planning the earning pathway to achieve or retain a target tier"
+    ]
+  },
+  {
+    "id": "INIT-018",
+    "name": "Automated Booking Tracker",
+    "status": "Backlog",
+    "outcomes": [
+      "Maximise the likelihood of being able to find an indirect points earn pathway when direct transfer partners are limited or restricted"
+    ]
+  },
+  {
+    "id": "INIT-019",
+    "name": "Enhanced Retention Experience",
+    "status": "Backlog",
+    "outcomes": [
+      "Maximise the value from redirecting spend after hitting an earn cap when a card's points cap makes continued spend unrewarding",
+      "Maximise the value from exiting a card or programme relationship when concluding that the card or programme no longer delivers sufficient value"
+    ]
+  },
+  {
+    "id": "INIT-020",
+    "name": "Enhanced Retention System",
+    "status": "Prediscovery",
+    "outcomes": [
+      "Maximise the value from cancelling or rebooking a reward flight when a better seat or lower points price becomes available",
+      "Maximise the value from completing the transaction when executing the key action in this step of the journey"
+    ]
+  },
+  {
+    "id": "INIT-021",
+    "name": "Next-Gen Retention Integration",
+    "status": "Backlog",
+    "outcomes": [
+      "Minimise the effort required to monitor a credit score after an application when tracking credit health following a card decline or recent application"
+    ]
+  },
+  {
+    "id": "INIT-022",
+    "name": "Smart Loyalty Platform",
+    "status": "Discovery",
+    "outcomes": [
+      "Maximise the value from auditing card earn rate and return when reviewing whether the card is delivering the expected value relative to spend"
+    ]
+  },
+  {
+    "id": "INIT-023",
+    "name": "Enhanced Status Engine",
+    "status": "Prediscovery",
+    "outcomes": [
+      "Minimise the effort required to receive points or credits on time when a lag between earning and posting creates uncertainty about progress",
+      "Minimise the effort required to adjust the loyalty or card strategy when programme changes, devaluations, or shifting priorities require a new approach"
+    ]
+  },
+  {
+    "id": "INIT-024",
+    "name": "Dynamic Rewards Tracker",
+    "status": "Backlog",
+    "outcomes": [
+      "Maximise the value from using included card credits to offset the annual fee when evaluating whether lifestyle credits justify a premium card fee",
+      "Maximise the likelihood of being able to reflect on the overall loyalty outcome when concluding a membership year or card engagement and assessing total return"
+    ]
+  },
+  {
+    "id": "INIT-025",
+    "name": "AI-Driven Booking Experience",
+    "status": "Development",
+    "outcomes": [
+      "Minimise the difficulty of finding ways to fast track my path to elite tiers",
+      "Maximise the value from using points for a meaningful trip when concluding that long-term saving paid off in a significant personal travel experience"
+    ]
+  },
+  {
+    "id": "INIT-026",
+    "name": "Next-Gen Points Integration",
+    "status": "Development",
+    "outcomes": [
+      "Maximise the value from transferring points to Qantas when converting bank or partner points to avoid a devaluation or meet a deadline",
+      "Maximise the value from calculating the net value of a card fee when weighing sign-up bonus and benefits against the annual cost"
+    ]
+  },
+  {
+    "id": "INIT-027",
+    "name": "AI-Driven Status Workflow",
+    "status": "Development",
+    "outcomes": [
+      "Maximise the value from planning a status run when using Double Status Credit promotions to accelerate tier progress",
+      "Maximise the likelihood of being able to understand reward pricing when partner airline redemption rates are updated"
+    ]
+  },
+  {
+    "id": "INIT-028",
+    "name": "Omnichannel Value Integration",
+    "status": "Development",
+    "outcomes": [
+      "Maximise the value from calculating the value per point when comparing the return on a sign-up bonus or redemption against the card fee",
+      "Minimise the effort required to access a lounge benefit when a previously available lounge entitlement has been removed or restricted"
+    ]
+  },
+  {
+    "id": "INIT-029",
+    "name": "Seamless Rewards Orchestrator",
+    "status": "Backlog",
+    "outcomes": [
+      "Maximise the likelihood of being able to exit a card or programme relationship when concluding that the card or programme no longer delivers sufficient value"
+    ]
+  },
+  {
+    "id": "INIT-030",
+    "name": "Seamless Alerts Dashboard",
+    "status": "Backlog",
+    "outcomes": [
+      "Minimise the effort required to track status credit postings when monitoring progress toward a tier after qualifying flights or activity"
+    ]
+  },
+  {
+    "id": "INIT-031",
+    "name": "Unified Status Platform",
+    "status": "Backlog",
+    "outcomes": [
+      "Maximise the value from assessing credit eligibility before applying when a recent home loan or credit event may affect card approval"
+    ]
+  },
+  {
+    "id": "INIT-032",
+    "name": "Dynamic Retention Dashboard",
+    "status": "Discovery",
+    "outcomes": [
+      "Maximise the value from affirming long-term programme loyalty when reflecting on sustained engagement with the Qantas ecosystem over many years",
+      "Maximise the value from planning a pathway to lifetime status when calculating the investment required to reach LTG or Platinum One"
+    ]
+  },
+  {
+    "id": "INIT-033",
+    "name": "Seamless Retention Experience",
+    "status": "Development",
+    "outcomes": [
+      "Maximise the value from cancelling or switch a credit card when a card no longer delivers sufficient value to justify continued use"
+    ]
+  },
+  {
+    "id": "INIT-034",
+    "name": "Smart Onboarding Dashboard",
+    "status": "Backlog",
+    "outcomes": [
+      "Maximise the likelihood of being able to use a lounge or priority boarding benefit when travelling at a status tier that includes airport privileges"
+    ]
+  },
+  {
+    "id": "INIT-035",
+    "name": "Automated Checkout Portal",
+    "status": "Development",
+    "outcomes": [
+      "Maximise the value from reflecting on the overall loyalty outcome when concluding a membership year or card engagement and assessing total return"
+    ]
+  },
+  {
+    "id": "INIT-036",
+    "name": "Unified Rewards Engine",
+    "status": "Development",
+    "outcomes": [
+      "Minimise the difficulty of finding ways to fast track my path to elite tiers"
+    ]
+  },
+  {
+    "id": "INIT-037",
+    "name": "Dynamic Status Dashboard",
+    "status": "Prediscovery",
+    "outcomes": [
+      "Maximise the likelihood of being able to confirm eligibility for a reward booking when status tier restrictions apply to partner airline redemptions",
+      "Maximise the value from tracking status credit postings when monitoring progress toward a tier after qualifying flights or activity"
+    ]
+  },
+  {
+    "id": "INIT-038",
+    "name": "Next-Gen Onboarding Experience",
+    "status": "Discovery",
+    "outcomes": [
+      "Minimise the effort required to use points for a seat upgrade when trying to access a better seat using earned points or status benefits"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+.process-view-container {
+  font-family: 'system-ui', -apple-system, sans-serif;
+}
+
+.process-tabs button {
+  transition: all 0.2s ease-in-out;
+}
+
+.process-tabs button:hover {
+  background-color: #fcebeb;
+  color: #e40000;
+}
+
+.process-section.fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.process-section h2 {
+  font-size: 24px;
+  color: #222;
+  margin-bottom: 15px;
+}
+
+.process-section p {
+  font-size: 15px;
+  color: #444;
+  line-height: 1.5;
+}

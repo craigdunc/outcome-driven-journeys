@@ -1,0 +1,854 @@
+{
+  "Loyalty Journey": {
+    "Locate": [
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to locate a points-earning credit card when searching the market for a new card offer",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 7,
+        "Satisfaction_Score": 7.5,
+        "SOS": 7.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the difficulty of finding ways to fast track my path to elite tiers",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 6,
+        "Satisfaction_Score": 9.57,
+        "SOS": 6.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to find a relevant loyalty offer when exploring programme options and partner deals",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 5,
+        "Satisfaction_Score": 6.56,
+        "SOS": 5.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to locate a reward seat when searching for classic reward availability using Qantas points",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 8.33,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to find a reward seat on Emirates when searching for partner airline availability with Qantas points",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 7.14,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Prepare": [
+      {
+        "Customer_Outcome": "Maximise the value from assessing whether the strategy is worth pursuing when evaluating the return on a loyalty or card activity before committing",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 6.38,
+        "SOS": 9.6207,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from planning a status run when using Double Status Credit promotions to accelerate tier progress",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 5,
+        "Satisfaction_Score": 8.06,
+        "SOS": 5.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from calculating status credit requirements when planning the earning pathway to achieve or retain a target tier",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 9.29,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from planning a pathway to lifetime status when calculating the investment required to reach LTG or Platinum One",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 10.0,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from meeting multi-category ground earn requirements when planning spend across categories to unlock ground-based status credits",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 1,
+        "Satisfaction_Score": 10.0,
+        "SOS": 1.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Execute": [
+      {
+        "Customer_Outcome": "Minimise the effort required to complete the transaction when executing the key action in this step of the journey",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 5.85,
+        "SOS": 10.1525,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to use a lounge or priority boarding benefit when travelling at a status tier that includes airport privileges",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 9.09,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to access a lounge benefit when a previously available lounge entitlement has been removed or restricted",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 5.71,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to book a reward flight when redeeming Qantas points for a classic reward",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 7.86,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to pay fees on a reward booking when completing a classic reward booking with elevated carrier charges",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 1,
+        "Satisfaction_Score": 8.75,
+        "SOS": 1.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Monitor": [
+      {
+        "Customer_Outcome": "Minimise the effort required to verify earned points and credits are correct when checking balances after qualifying activity",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 9,
+        "Satisfaction_Score": 6.64,
+        "SOS": 11.3562,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to track status credit postings when monitoring progress toward a tier after qualifying flights or activity",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 6,
+        "Satisfaction_Score": 6.67,
+        "SOS": 6.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to track progress toward tier retention when monitoring whether enough credits will be earned before the membership year ends",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 8.89,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to track ground-earned status credits when verifying that non-flight spend has converted to status credits as expected",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 5.5,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to check points expiry dates when monitoring whether accumulated points are at risk of expiring",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 5.71,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Modify": [
+      {
+        "Customer_Outcome": "Maximise the value from adjusting the loyalty or card strategy when programme changes, devaluations, or shifting priorities require a new approach",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 10,
+        "Satisfaction_Score": 5.44,
+        "SOS": 14.5575,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Maximise the value from cancelling or switch a credit card when a card no longer delivers sufficient value to justify continued use",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 5.62,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from adjusting spend strategy to fit financial priorities when personal financial circumstances change",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 7.5,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from deciding whether to continue chasing status when the effort and cost of the next tier no longer seems justified",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 1,
+        "Satisfaction_Score": 3.33,
+        "SOS": 1.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from cancelling or rebooking a reward flight when a better seat or lower points price becomes available",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 1,
+        "Satisfaction_Score": 10.0,
+        "SOS": 1.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Conclude": [
+      {
+        "Customer_Outcome": "Maximise the value from reflecting on the overall loyalty outcome when concluding a membership year or card engagement and assessing total return",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 6.88,
+        "SOS": 9.125,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from concluding the engagement with a positive outcome when reflecting on a card or programme that delivered value as expected",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 5,
+        "Satisfaction_Score": 8.16,
+        "SOS": 5.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from affirming long-term programme loyalty when reflecting on sustained engagement with the Qantas ecosystem over many years",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 5.0,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from retaining or achieve a status tier when concluding a membership year and reviewing status outcomes",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 7.5,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from reaching a target status tier when reflecting on the investment made to achieve or maintain an elite loyalty level",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 8.33,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      }
+    ]
+  },
+  "Money Journey": {
+    "Locate": [
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to locate a points-earning credit card when searching the market for a new card offer",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 7,
+        "Satisfaction_Score": 7.5,
+        "SOS": 7.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the difficulty of finding ways to fast track my path to elite tiers",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 6,
+        "Satisfaction_Score": 9.57,
+        "SOS": 6.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to find a relevant loyalty offer when exploring programme options and partner deals",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 5,
+        "Satisfaction_Score": 6.56,
+        "SOS": 5.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to locate a reward seat when searching for classic reward availability using Qantas points",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 8.33,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to compare points-earning card options when evaluating which card best suits a loyalty goal",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 7.0,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Prepare": [
+      {
+        "Customer_Outcome": "Maximise the value from assessing whether the strategy is worth pursuing when evaluating the return on a loyalty or card activity before committing",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 6.38,
+        "SOS": 9.6207,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from calculating the value per point when comparing the return on a sign-up bonus or redemption against the card fee",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 6.92,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from calculating status credit requirements when planning the earning pathway to achieve or retain a target tier",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 9.29,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from planning a pathway to lifetime status when calculating the investment required to reach LTG or Platinum One",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 10.0,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from calculating the net value of a card fee when weighing sign-up bonus and benefits against the annual cost",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 4.55,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Execute": [
+      {
+        "Customer_Outcome": "Minimise the effort required to complete the transaction when executing the key action in this step of the journey",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 5.85,
+        "SOS": 10.1525,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to submit a card application when onboarding with a new bank or loyalty card provider",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 8.0,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to purchase an insurance policy for points when executing a transaction in a qualifying ground-earn category",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 6.67,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to use a lounge or priority boarding benefit when travelling at a status tier that includes airport privileges",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 9.09,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to activate a new card when waiting for a physical card to arrive before use is possible",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 4.29,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Monitor": [
+      {
+        "Customer_Outcome": "Minimise the effort required to verify earned points and credits are correct when checking balances after qualifying activity",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 9,
+        "Satisfaction_Score": 6.64,
+        "SOS": 11.3562,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to track status credit postings when monitoring progress toward a tier after qualifying flights or activity",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 6,
+        "Satisfaction_Score": 6.67,
+        "SOS": 6.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to track ground-earned status credits when verifying that non-flight spend has converted to status credits as expected",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 5.5,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to track progress toward tier retention when monitoring whether enough credits will be earned before the membership year ends",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 8.89,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to check points expiry dates when monitoring whether accumulated points are at risk of expiring",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 5.71,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Modify": [
+      {
+        "Customer_Outcome": "Maximise the value from adjusting the loyalty or card strategy when programme changes, devaluations, or shifting priorities require a new approach",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 10,
+        "Satisfaction_Score": 5.44,
+        "SOS": 14.5575,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Maximise the value from cancelling or switch a credit card when a card no longer delivers sufficient value to justify continued use",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 5.62,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from adjusting spend strategy to fit financial priorities when personal financial circumstances change",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 7.5,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from deciding whether to continue chasing status when the effort and cost of the next tier no longer seems justified",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 1,
+        "Satisfaction_Score": 3.33,
+        "SOS": 1.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to adjust the loyalty or card strategy when programme changes, devaluations, or shifting priorities require a new approach",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 1,
+        "Satisfaction_Score": 3.33,
+        "SOS": 1.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Conclude": [
+      {
+        "Customer_Outcome": "Maximise the value from reflecting on the overall loyalty outcome when concluding a membership year or card engagement and assessing total return",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 6.88,
+        "SOS": 9.125,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from concluding the engagement with a positive outcome when reflecting on a card or programme that delivered value as expected",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 5,
+        "Satisfaction_Score": 8.16,
+        "SOS": 5.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from reaching a target status tier when reflecting on the investment made to achieve or maintain an elite loyalty level",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 8.33,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from retaining or achieve a status tier when concluding a membership year and reviewing status outcomes",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 7.5,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from confirming a positive financial return when concluding that the sign-up bonus and benefits exceeded the total cost of the card",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 10.0,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      }
+    ]
+  },
+  "Cards Journey": {
+    "Locate": [
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to locate a points-earning credit card when searching the market for a new card offer",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 7,
+        "Satisfaction_Score": 7.5,
+        "SOS": 7.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the difficulty of finding ways to fast track my path to elite tiers",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 6,
+        "Satisfaction_Score": 9.57,
+        "SOS": 6.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to find a relevant loyalty offer when exploring programme options and partner deals",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 5,
+        "Satisfaction_Score": 6.56,
+        "SOS": 5.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to locate a reward seat when searching for classic reward availability using Qantas points",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 8.33,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to compare points-earning card options when evaluating which card best suits a loyalty goal",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 7.0,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Prepare": [
+      {
+        "Customer_Outcome": "Maximise the value from assessing whether the strategy is worth pursuing when evaluating the return on a loyalty or card activity before committing",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 6.38,
+        "SOS": 9.6207,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from planning a status run when using Double Status Credit promotions to accelerate tier progress",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 5,
+        "Satisfaction_Score": 8.06,
+        "SOS": 5.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from calculating status credit requirements when planning the earning pathway to achieve or retain a target tier",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 9.29,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from calculating the value per point when comparing the return on a sign-up bonus or redemption against the card fee",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 6.92,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from calculating the net value of a card fee when weighing sign-up bonus and benefits against the annual cost",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 4.55,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Execute": [
+      {
+        "Customer_Outcome": "Minimise the effort required to complete the transaction when executing the key action in this step of the journey",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 5.85,
+        "SOS": 10.1525,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to submit a card application when onboarding with a new bank or loyalty card provider",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 4,
+        "Satisfaction_Score": 8.0,
+        "SOS": 4.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to purchase an insurance policy for points when executing a transaction in a qualifying ground-earn category",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 6.67,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to activate a new card when waiting for a physical card to arrive before use is possible",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 4.29,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to book a reward flight when redeeming Qantas points for a classic reward",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 7.86,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Monitor": [
+      {
+        "Customer_Outcome": "Minimise the effort required to verify earned points and credits are correct when checking balances after qualifying activity",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 9,
+        "Satisfaction_Score": 6.64,
+        "SOS": 11.3562,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to track status credit postings when monitoring progress toward a tier after qualifying flights or activity",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 6,
+        "Satisfaction_Score": 6.67,
+        "SOS": 6.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to track ground-earned status credits when verifying that non-flight spend has converted to status credits as expected",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 5.5,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to check points expiry dates when monitoring whether accumulated points are at risk of expiring",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 5.71,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Minimise the effort required to audit card earn rate and return when reviewing whether the card is delivering the expected value relative to spend",
+        "Direction": "Minimise",
+        "Metric_Measure": "Effort",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 5.0,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Modify": [
+      {
+        "Customer_Outcome": "Maximise the value from adjusting the loyalty or card strategy when programme changes, devaluations, or shifting priorities require a new approach",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 10,
+        "Satisfaction_Score": 5.44,
+        "SOS": 14.5575,
+        "High_Opportunity": true
+      },
+      {
+        "Customer_Outcome": "Maximise the value from adjusting spend strategy to fit financial priorities when personal financial circumstances change",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 2,
+        "Satisfaction_Score": 7.5,
+        "SOS": 2.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from redeeming points as gift cards or cashback when flight redemptions are unattractive due to programme devaluations",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 0,
+        "Satisfaction_Score": 2.5,
+        "SOS": 0.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from redirecting spend after hitting an earn cap when a card's points cap makes continued spend unrewarding",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 0,
+        "Satisfaction_Score": 7.5,
+        "SOS": 0.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the likelihood of being able to adjust the loyalty or card strategy when programme changes, devaluations, or shifting priorities require a new approach",
+        "Direction": "Maximise",
+        "Metric_Measure": "Relevance",
+        "Importance_Score": 0,
+        "Satisfaction_Score": 10.0,
+        "SOS": 0.0,
+        "High_Opportunity": false
+      }
+    ],
+    "Conclude": [
+      {
+        "Customer_Outcome": "Maximise the value from reflecting on the overall loyalty outcome when concluding a membership year or card engagement and assessing total return",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 8,
+        "Satisfaction_Score": 6.88,
+        "SOS": 9.125,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from concluding the engagement with a positive outcome when reflecting on a card or programme that delivered value as expected",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 5,
+        "Satisfaction_Score": 8.16,
+        "SOS": 5.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from reaching a target status tier when reflecting on the investment made to achieve or maintain an elite loyalty level",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 8.33,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from retaining or achieve a status tier when concluding a membership year and reviewing status outcomes",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 7.5,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      },
+      {
+        "Customer_Outcome": "Maximise the value from affirming long-term programme loyalty when reflecting on sustained engagement with the Qantas ecosystem over many years",
+        "Direction": "Maximise",
+        "Metric_Measure": "Value",
+        "Importance_Score": 3,
+        "Satisfaction_Score": 5.0,
+        "SOS": 3.0,
+        "High_Opportunity": false
+      }
+    ]
+  }
+}
